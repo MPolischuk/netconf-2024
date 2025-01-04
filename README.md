@@ -24,7 +24,7 @@ Los eventos locales de .NET Conf son reuniones para ver las novedades, revisione
 | --- | --- |  --- |  --- |
 | **Lo nuevo en ASP.NET Core & Blazor en .NET 9** | Nahiara Orgoñ & Alejandro Jimenez | Demo... | Slides | 
 | **.NET Aspire 9** | Ing. Jose A. Fernandez [![LinkedIn](./images/icon-linkedin.png)](https://www.linkedin.com/in/fernandezja/)&nbsp; [![GitHub](./images/icon-github.png)](https://github.com/fernandezja)| [Demo](https://github.com/fernandezja/aspire-net9-dotnetconf-2024) | [Slides](https://speakerdeck.com/fernandezja/dot-net-aspire-9) |
-| **Pushed Authorization Requests (PAR) en ASP.NET Core 9** | Marcos Polischuk | Demo... | Slides | 
+| **Pushed Authorization Requests (PAR) en ASP.NET Core 9** | Ing. Marcos Polischuk | [![GitHub](./images/icon-github.png)](https://github.com/MPolischuk)| [Demo](https://github.com/MPolischuk/PushAuthRequest) | [Slides](https://github.com/MPolischuk/PushAuthRequest) | 
 | **Descubre lo que .NET 9 tiene para IA: Una Revolución en el Desarrollo con Microsoft.Extensions** | Fernando Luján | Demo... | Slides | 
 | **Semantic Kernel: Potenciando .NET con IA Conversacional** | Augusto Portillo | Demo... | Slides | 
 | **Automatización de Aplicaciones Web Usando Playwright y .NET 9** | Mariano Vivaldo | Demo... | Slides | 
